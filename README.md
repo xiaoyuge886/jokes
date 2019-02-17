@@ -41,13 +41,13 @@
 ![](screen/首页-评论.jpg)
 
 ## 推荐关注
-![](ScreenSnap/推荐关注.jpg)
+![](screen/推荐关注.jpg)
 
 ## 关注
-![](ScreenSnap/关注.jpg)
+![](screen/关注.jpg)
 
 ## 我的
-![](ScreenSnap/我的.jpg)
+![](screen/我的.jpg)
 
 ## 登录
-![](ScreenSnap/登录.jpg)
+![](screen/登录.jpg)
